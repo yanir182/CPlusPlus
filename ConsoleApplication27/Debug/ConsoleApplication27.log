@@ -1,0 +1,3 @@
+﻿  ConsoleApplication27.cpp
+C:\Users\Ученик_9\source\repos\ConsoleApplication27\Point.h(12,9): error C2535: Student::Student(const char *,const int,const int *): функция-член уже определена или объявлена
+C:\Users\Ученик_9\source\repos\ConsoleApplication27\Point.h(9): message : см. объявление "Student::Student"
